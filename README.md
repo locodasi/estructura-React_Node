@@ -14,6 +14,7 @@ Estructura para proyecto estándar con React/Node, creada con Vite, con las depe
   - express
   - jsonwebtoken
   - express-async-errors
+  - bcrypt
 
 Además, ya viene con algunos componentes, datos y servicios por defecto, para que todo sea funcional y para usar como base o como guía.
 
