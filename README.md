@@ -20,7 +20,10 @@ Además, ya viene con algunos componentes, datos y servicios por defecto, para q
 
 ## Guía de pasos
 
-1. Clonar el repositorio
+1. Clonar el repositorio: 
+    ``` 
+    git clone --depth=1 https://github.com/locodasi/estructura-React_Node.git 
+    ```
 2. Crear un archivo `.env` en el backend con este código:
     ```
     PORT=3003
