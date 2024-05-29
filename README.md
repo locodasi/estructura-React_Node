@@ -18,6 +18,8 @@ Estructura para proyecto estándar con React/Node, creada con Vite, con las depe
 
 Además, ya viene con algunos componentes, datos y servicios por defecto, para que todo sea funcional y para usar como base o como guía.
 
+El repositorio es un monorepo, por lo que podras instalar y activar tanto el front como el back, con una sola linea de script desde la raiz.
+
 ## Guía de pasos
 
 1. Clonar el repositorio: 
@@ -30,15 +32,8 @@ Además, ya viene con algunos componentes, datos y servicios por defecto, para q
     ```
 3. Ejecutar los siguientes comandos:
     ```bash
-    cd backend
     npm install
     npm run dev
     ```
 4. Si cambiaste el valor del PORT en el archivo .env ir a vite.config.js de la carpeta frontend y cambiar el valor al que pusiste
-5. Abrir otra terminal y ejecutar los siguientes comandos:
-    ```bash
-    cd frontend
-    npm install
-    npm run dev
-    ```
 6. Listo, a personalizar
